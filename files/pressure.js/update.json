@@ -1,0 +1,8 @@
+{
+  "packageManager": "github",
+  "name": "pressure.js",
+  "repo": "stuyam/pressure",
+  "files": {
+    "include": ["pressure.js", "pressure.min.js", "jquery.pressure.js", "jquery.pressure.min.js"]
+  }
+}
